@@ -1,3 +1,3 @@
-# aje Administrador de Jornada Electoral
+# AJE Administrador de Jornada Electoral
 
 No se que mas poner...
